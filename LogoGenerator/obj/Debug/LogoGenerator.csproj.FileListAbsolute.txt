@@ -17,3 +17,13 @@ C:\Users\rob_p\Dropbox\Software\Windows\LogoGenerator\LogoGenerator\obj\Debug\Lo
 C:\Users\rob_p\Dropbox\Software\Windows\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.csproj.CoreCompileInputs.cache
 C:\Users\rob_p\Dropbox\Software\Windows\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.exe
 C:\Users\rob_p\Dropbox\Software\Windows\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.pdb
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\bin\Debug\LogoGenerator.exe.config
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\bin\Debug\LogoGenerator.exe
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\bin\Debug\LogoGenerator.pdb
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.csproj.AssemblyReference.cache
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.Form1.resources
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.Properties.Resources.resources
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.csproj.GenerateResource.cache
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.exe
+C:\Users\rob_p\Source\Repos\LogoGenerator\LogoGenerator\obj\Debug\LogoGenerator.pdb
